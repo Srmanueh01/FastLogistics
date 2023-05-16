@@ -1,6 +1,6 @@
 <h1 align="center">FastLogistics - Proyecto JAVA Fundación Esplai</h1>
 
-FastLogistics surgió gracias a la unión de ideas junto a mi compañero, sobre la repartición de productos a domicilio y una empresa de limpieza.
+FastLogistics surgió gracias a la unión de ideas junto a mi compañero [Manel](https://github.com/manelsito), sobre la repartición de productos a domicilio y una empresa de limpieza.
 
 #### La aplicación contiene 3 tipos de usuarios.
 - repartidor
